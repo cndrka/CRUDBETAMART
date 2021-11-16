@@ -1,0 +1,10 @@
+E:\CRUD\Betamartcrud\Betamartcrud\bin\Debug\Betamartcrud.exe.config
+E:\CRUD\Betamartcrud\Betamartcrud\bin\Debug\Betamartcrud.exe
+E:\CRUD\Betamartcrud\Betamartcrud\bin\Debug\Betamartcrud.pdb
+E:\CRUD\Betamartcrud\Betamartcrud\obj\Debug\Betamartcrud.csproj.AssemblyReference.cache
+E:\CRUD\Betamartcrud\Betamartcrud\obj\Debug\Betamartcrud.Form1.resources
+E:\CRUD\Betamartcrud\Betamartcrud\obj\Debug\Betamartcrud.Properties.Resources.resources
+E:\CRUD\Betamartcrud\Betamartcrud\obj\Debug\Betamartcrud.csproj.GenerateResource.cache
+E:\CRUD\Betamartcrud\Betamartcrud\obj\Debug\Betamartcrud.csproj.CoreCompileInputs.cache
+E:\CRUD\Betamartcrud\Betamartcrud\obj\Debug\Betamartcrud.exe
+E:\CRUD\Betamartcrud\Betamartcrud\obj\Debug\Betamartcrud.pdb
